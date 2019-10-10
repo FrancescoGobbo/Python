@@ -1,0 +1,5 @@
+print('Ciao Programmatore! Benvenuto...\nma come ti chiami?')
+nome=input()
+print(nome + ' conosciamoci meglio...')
+età=input('Quanti anni hai? ')
+print(età + ' anni.\nBene, il giorno in cui ne compirai ' + str(int(età)+1) + ' ti farò gli auguri!')
